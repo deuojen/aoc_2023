@@ -260,4 +260,3 @@ console.log(
     seedMap2.reduce((min, p) => (p.min < min ? p.min : min), seedMap2[0].min)
 );
 // 51399228 --
-// 107474378
