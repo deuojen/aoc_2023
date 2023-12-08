@@ -163,12 +163,12 @@ console.log(
       (14363 / instructions.length) *
       instructions.length
 );
-console.log(19241 % instructions.length, 19241 / instructions.length);
-console.log(18157 % instructions.length, 18157 / instructions.length);
-console.log(19783 % instructions.length, 19783 / instructions.length);
-console.log(16531 % instructions.length, 16531 / instructions.length);
-console.log(21409 % instructions.length, 21409 / instructions.length);
-console.log(14363 % instructions.length, 14363 / instructions.length);
+console.log(19241 % instructions.length, 19241 / instructions.length); // 71
+console.log(18157 % instructions.length, 18157 / instructions.length); // 67
+console.log(19783 % instructions.length, 19783 / instructions.length); // 73
+console.log(16531 % instructions.length, 16531 / instructions.length); // 61
+console.log(21409 % instructions.length, 21409 / instructions.length); // 79
+console.log(14363 % instructions.length, 14363 / instructions.length); // 53
 
 // 250825971 --
 // (K:MLA, L:VNL, R:GCN) - (K:KPZ, L:GCN, R:VNL) = 19241
